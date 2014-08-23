@@ -18,17 +18,20 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <plurals name="duration_seconds">
     <item quantity="one"><xliff:g id="count">%d</xliff:g> секунда</item>
-    <item quantity="few"><xliff:g id="count">%d</xliff:g> секунды</item>
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> секунд</item>
+    <item quantity="few"><xliff:g id="count">%d</xliff:g> секунде</item>
+    <item quantity="many"><xliff:g id="count">%d</xliff:g> секунди</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> секунде</item>
   </plurals>
   <plurals name="duration_minutes">
-    <item quantity="one"><xliff:g id="count">%d</xliff:g> минута</item>
-    <item quantity="few"><xliff:g id="count">%d</xliff:g> минуты</item>
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> минут</item>
+    <item quantity="one"><xliff:g id="count">%d</xliff:g> минут</item>
+    <item quantity="few"><xliff:g id="count">%d</xliff:g> минута</item>
+    <item quantity="many"><xliff:g id="count">%d</xliff:g> минута</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> минута</item>
   </plurals>
   <plurals name="duration_hours">
-    <item quantity="one"><xliff:g id="count">%d</xliff:g> час</item>
-    <item quantity="few"><xliff:g id="count">%d</xliff:g> часа</item>
-    <item quantity="other"><xliff:g id="count">%d</xliff:g> часов</item>
+    <item quantity="one"><xliff:g id="count">%d</xliff:g> сат</item>
+    <item quantity="few"><xliff:g id="count">%d</xliff:g> сата</item>
+    <item quantity="many"><xliff:g id="count">%d</xliff:g> сати</item>
+    <item quantity="other"><xliff:g id="count">%d</xliff:g> сата</item>
   </plurals>
 </resources>
